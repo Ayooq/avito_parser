@@ -1,0 +1,5 @@
+BASE = 'https://www.avito.ru'
+REGION = '/omsk'
+CATEGORY = ''
+PAGE = 'p='
+QUERY = 'q=htc'
