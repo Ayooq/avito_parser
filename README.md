@@ -1,1 +1,1 @@
-# avito_parser
+# Avito парсер
